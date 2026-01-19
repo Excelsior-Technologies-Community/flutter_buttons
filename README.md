@@ -18,6 +18,9 @@ This library is ideal for apps that want a **single source of truth for buttons*
 
 ---
 ## Preview
+
+<img width="603" height="969" alt="Screenshot 2026-01-19 121146" src="https://github.com/user-attachments/assets/ed22432a-4cc8-4f29-bf0c-aa238818c0f5" />
+
 ---
 
 ## 📦 Buttons Included
